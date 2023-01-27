@@ -9,9 +9,13 @@
         <module name="gerenciar-pessoas" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gerenciar-pessoa" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gerenciar-pessoa" options="-parameters" />
       <module name="gerenciar-pessoas" options="-parameters" />
     </option>
   </component>

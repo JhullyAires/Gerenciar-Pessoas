@@ -1,4 +1,4 @@
-D:\BACK-END\gerenciar-pessoas\src\main\java\br\com\gerenciarPessoas\gerenciarpessoas\status\StatusDTO.java
-D:\BACK-END\gerenciar-pessoas\src\main\java\br\com\gerenciarPessoas\gerenciarpessoas\status\StatusRest.java
-D:\BACK-END\gerenciar-pessoas\src\main\java\br\com\gerenciarPessoas\gerenciarpessoas\status\StatusAPI.java
-D:\BACK-END\gerenciar-pessoas\src\main\java\br\com\gerenciarPessoas\gerenciarpessoas\GerenciarPessoasApplication.java
+D:\BACK-END\gerenciar-pessoas\src\main\java\br\com\gerenciarPessoas\gerenciarpessoas\modulos\status\StatusRest.java
+D:\BACK-END\gerenciar-pessoas\src\main\java\br\com\gerenciarPessoas\GerenciarpessoasApplication.java
+D:\BACK-END\gerenciar-pessoas\src\main\java\br\com\gerenciarPessoas\gerenciarpessoas\modulos\status\StatusApi.java
+D:\BACK-END\gerenciar-pessoas\src\main\java\br\com\gerenciarPessoas\gerenciarpessoas\modulos\status\StatusDTO.java
