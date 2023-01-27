@@ -1,0 +1,4 @@
+br\com\gerenciarPessoas\gerenciarpessoas\status\StatusDTO.class
+br\com\gerenciarPessoas\gerenciarpessoas\status\StatusRest.class
+br\com\gerenciarPessoas\gerenciarpessoas\GerenciarPessoasApplication.class
+br\com\gerenciarPessoas\gerenciarpessoas\status\StatusAPI.class
